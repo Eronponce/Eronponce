@@ -3,12 +3,15 @@
 </span>
 <h3 align="center">Computer science student at Unifil.</h3>
 
+- 🚹 He/Him
+
+- 😁 I’m 19 years old
+
 - ⚽ I live in Brazil
 
-- 🤖 I’m studying AI
+- 🤖 I’m a researcher on AI
 
 - 👨‍💻 I’m a certified Google’s student tutor
-
 
 - ✍ I give classes to teenagers [Londrinense Tech](https://www.instagram.com/tv/CWMVHGxABNo/?utm_medium=copy_link)
 
