@@ -1,23 +1,23 @@
 <span style="color: purple">
 <h1 align="center">Hey I’m Eron</h1>
 </span>
-<h3 align="center">Computer science student at Unifil.</h3>
+<h3 align="center">Computer Science student at Unifil.</h3>
 
-- 🚹 I’m a guy
+- 🚹 I’m a guy.
 
-- 😁 I’m 19 years old
+- 😁 I’m 19 years old.
 
-- ⚽ I live in Brazil
+- ⚽ I live in Brazil.
 
-- 🤖 I’m a researcher on AI
+- 🤖 I’m a researcher on AI.
 
-- 👨‍💻 I’m a certified Google Student Tutor
+- 👨‍💻 I’m a certified Google Student Tutor!
 
-- ✍ I give classes to teenagers [Londrinense Tech](https://www.instagram.com/tv/CWMVHGxABNo/?utm_medium=copy_link)
+- ✍ I give classes to teenagers. [Londrinense Tech](https://www.instagram.com/tv/CWMVHGxABNo/?utm_medium=copy_link)
 
 - 🎉 I won 2021 turism Hackaton! [Sync Routine](https://app.rdstation.email/mail/7bc10e1c-97a9-4a3a-9962-de3a6ed09700?utm_campaign=alunos_de_ciencia_da_computacao_vencem_o_hackathon_do_turismo_2021&utm_medium=email&utm_source=RD+Station)
 
-- 📫 How to reach me **eronponcepereira@gmail.com**
+- 📫 How to reach me? **eronponcepereira@gmail.com**
 
 - 🎮 Fun fact **I like to play games**
 
