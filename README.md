@@ -1,6 +1,6 @@
-# About [Eron] 🌟
+# About Eron 🌟
 
-Eron is a dynamic and passionate individual with a diverse range of skills and experiences. With a background in Research at Unifil and Tutor at Unifil, he brings a unique perspective and a strong work ethic to any project. 💪
+Eron is 20 years old and is a dynamic and passionate individual with a diverse range of skills and experiences. With a background in Researcher and Tutor at Unifil, he brings a unique perspective and a strong work ethic to any project. 💪
 
 ## Professional Experience 💼
 
@@ -15,9 +15,9 @@ Eron is a dynamic and passionate individual with a diverse range of skills and e
 
 ## Education 🎓
   - Graduating at computer science at Unifil (2021-today) 🎓
-  - - Certified Google Student Tutor since 2018! 💻
-  - Winner of 2021 turism Hackaton! [Sync Routine](https://app.rdstation.email/mail/7bc10e1c-97a9-4a3a-9962-de3a6ed09700?utm_campaign=alunos_de_ciencia_da_computacao_vencem_o_hackathon_do_turismo_2021&utm_medium=email&utm_source=RD+Station) 🎉
-  - Third place of 2022 turism Hackaton (https://www.linkedin.com/feed/update/urn:li:activity:6990052429287309312?utm_source=share&utm_medium=member_desktop) 🏆
+  - Certified Google Student Tutor since 2018! 💻
+  - Winner of 2021 tourism Hackaton! [Sync Routine](https://app.rdstation.email/mail/7bc10e1c-97a9-4a3a-9962-de3a6ed09700?utm_campaign=alunos_de_ciencia_da_computacao_vencem_o_hackathon_do_turismo_2021&utm_medium=email&utm_source=RD+Station) 🎉
+  - Third place of 2022 tourism Hackaton (https://www.linkedin.com/feed/update/urn:li:activity:6990052429287309312?utm_source=share&utm_medium=member_desktop) 🏆
 
 ## Skills 🧑‍💼
 
@@ -26,6 +26,9 @@ Eron is a dynamic and passionate individual with a diverse range of skills and e
 - [Python for AI] 🎨
 - [Logical thinking] 🔢
 - [Pedagogy] 👨‍🏫
+## Important projects
+  - Calculator that automatically translates the number base explaining each procedure (https://github.com/Eronponce/calculadora-sistema-de-numeracao)
+  - Calculator that builds your truth table and also adds new columns with the result of calculations with prepositions(https://github.com/LeonardoRochaLima/calculadora-tabela-verdade) **Private for now**
 
 ## Personal Interests 🧑‍🏫
 
