@@ -1,25 +1,39 @@
-<span style="color: purple">
-<h1 align="center">Hey I’m Eron</h1>
-</span>
-<h3 align="center">Computer Science student at Unifil.</h3>
+# About [Eron] 🌟
 
-- 🚹 I’m a guy.
+Eron is a dynamic and passionate individual with a diverse range of skills and experiences. With a background in Research at Unifil and Tutor at Unifil, he brings a unique perspective and a strong work ethic to any project. 💪
 
-- 😁 I’m 20 years old.
+## Professional Experience 💼
 
-- ⚽ I live in Brazil.
+- Full time researcher at Unifil (2021-today) 🏢
+  - [Member of IA Researcher Group at Unifil] (https://www.youtube.com/watch?v=MRCVpt6XcRQ) 📈
 
-- 🤖 I’m a researcher on AI.
+- Tutor at Unifil (2021-today) 🏭
+  - [Londrinense Tech 2021] (https://www.colegiolondrinense.com.br/home/noticia/177) 🏆
+  - [Londrinense Tech 2022](https://www.instagram.com/tv/CWMVHGxABNo/?utm_medium=copy_link) 🏆
+  - [Pensamento computacional 2022] (https://blog.unifil.br/unifil-prepara-jovens-para-mercado-de-ti-com-curso-gratuito-de-pensamento-computacional/) 🏆
+  - [Presenting technological partnerships at Unifil] (https://drive.google.com/file/d/1SpkEOT2IweRXFodcci9-xZ9b4QdRAfxj/view?usp=sharing)
 
-- 👨‍💻 I’m a certified Google Student Tutor!
+## Education 🎓
+  - Graduating at computer science at Unifil (2021-today) 🎓
+  - - Certified Google Student Tutor since 2018! 💻
+  - Winner of 2021 turism Hackaton! [Sync Routine](https://app.rdstation.email/mail/7bc10e1c-97a9-4a3a-9962-de3a6ed09700?utm_campaign=alunos_de_ciencia_da_computacao_vencem_o_hackathon_do_turismo_2021&utm_medium=email&utm_source=RD+Station) 🎉
+  - Third place of 2022 turism Hackaton (https://www.linkedin.com/feed/update/urn:li:activity:6990052429287309312?utm_source=share&utm_medium=member_desktop) 🏆
 
-- ✍ I give classes to teenagers. [Londrinense Tech](https://www.instagram.com/tv/CWMVHGxABNo/?utm_medium=copy_link)
+## Skills 🧑‍💼
 
-- 🎉 I won 2021 turism Hackaton! [Sync Routine](https://app.rdstation.email/mail/7bc10e1c-97a9-4a3a-9962-de3a6ed09700?utm_campaign=alunos_de_ciencia_da_computacao_vencem_o_hackathon_do_turismo_2021&utm_medium=email&utm_source=RD+Station)
+- [English fluent] 🔨
+- [Web developer] 💻
+- [Python for AI] 🎨
+- [Logical thinking] 🔢
+- [Pedagogy] 👨‍🏫
+
+## Personal Interests 🧑‍🏫
+
+When he is not working, Eron enjoys playing games and coding optimal tasks. He is also an avid musing enthusiast and loves to listen to any kind of music.🎸
+
 
 - 📫 How to reach me? **eronponcepereira@gmail.com**
 
-- 🎮 Fun fact **I like to play games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
