@@ -16,6 +16,8 @@ Eron is 20 years old and is a dynamic and passionate individual with a diverse r
 ## Education 🎓
   - Graduating at computer science at Unifil (2021-today) 🎓
   - Certified Google Student Tutor since 2018! 💻
+  - Winner of 2023 contability Hackaton on Sescap (https://www.linkedin.com/feed/update/urn:li:activity:7090698229280845825/) 🥂
+  - Winner of 2023 development marathon named InTech on artificial inteligence (https://www.linkedin.com/feed/update/urn:li:activity:7121230327863291904/)
   - Winner of 2021 tourism Hackaton! [Sync Routine](https://app.rdstation.email/mail/7bc10e1c-97a9-4a3a-9962-de3a6ed09700?utm_campaign=alunos_de_ciencia_da_computacao_vencem_o_hackathon_do_turismo_2021&utm_medium=email&utm_source=RD+Station) 🎉
   - Third place of 2022 tourism Hackaton (https://www.linkedin.com/feed/update/urn:li:activity:6990052429287309312?utm_source=share&utm_medium=member_desktop) 🏆
 
