@@ -1,6 +1,6 @@
 # About Eron 🌟
 
-Eron is 21 years old and is a dynamic and passionate individual with a diverse range of skills and experiences. With a background in Researcher and Tutor at Unifil, he brings a unique perspective and a strong work ethic to any project. 💪
+I'm 21 years old and i view myself as a dynamic and passionate individual with a diverse range of skills and experiences. With a background in Researcher and Tutor at UniFil, I bring a unique perspective and a strong work ethic to any project. 💪
 
 ## Professional Experience 💼
 
