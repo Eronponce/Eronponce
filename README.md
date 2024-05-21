@@ -11,9 +11,9 @@ I'm 21 years old and view myself as a dynamic and passionate individual with a d
   - Londrinense Tech:
     - [2021](https://drive.google.com/file/d/1SohzZWTXVnCnegqn8Qa8_OtF3dzDJ34V/view?usp=sharing)
     - [2022](https://drive.google.com/file/d/1ng3aHWmVBX5HUBvt5N4aWIjGa1rgFZJB/view?usp=sharing)
-    - [2023](https://drive.google.com/drive/folders/10BtnMdltCvjnEu6A7XxuGU3vtFMnK0Ea?usp=drive_link) 🏆
+    - [2023](https://drive.google.com/drive/folders/10BtnMdltCvjnEu6A7XxuGU3vtFMnK0Ea?usp=drive_link) 
   - Pensamento Computacional:
-    - [2022](https://drive.google.com/file/d/1x4HGdOad4W2GYYNEl8nt4YDgWN00BYWs/view?usp=sharing) 🏆
+    - [2022](https://drive.google.com/file/d/1x4HGdOad4W2GYYNEl8nt4YDgWN00BYWs/view?usp=sharing) 
     - [2023](https://drive.google.com/file/d/1HGWeuxY5UUlqPVBuUdNzOg_XS1z9LJUC/view?usp=sharing)
   - Presenting Technological Partnerships at Unifil
 
