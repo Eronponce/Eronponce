@@ -1,6 +1,6 @@
 <img src="images/header.svg"></img>
 
-I'm 21 years old and view myself as a dynamic and passionate individual with a diverse range of skills and experiences. With a background in research and tutoring at UniFil, I bring a unique perspective and a strong work ethic to any project. 💪
+I view myself as a dynamic and passionate individual with a diverse range of skills and experiences. With a background in research and tutoring at UniFil, I bring a unique perspective and a strong work ethic to any project. 💪
 
 ## Professional Experience 💼
 
