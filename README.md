@@ -3,7 +3,7 @@
 I view myself as a dynamic and passionate individual with a diverse range of skills and experiences. With a background in research and tutoring at UniFil, I bring a unique perspective and a strong work ethic to any project. 💪
 
 ## Professional Experience 💼
-- ** University Professor at Unifil (2025-today)** 🏫
+- **University Professor at Unifil (2025-today)** 🏫
 
 - **Full-time researcher at Unifil (2021-2024)** 🏢
   - Member of IA Researcher Group at Unifil 📈
