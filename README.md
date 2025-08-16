@@ -49,7 +49,9 @@ When not working, I enjoy playing games and coding optimal tasks. I'm also an av
 📫 How to reach me? **eronponcepereira@gmail.com**
 
 ---
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eronponce&show_icons=true&theme=dracula" />
+</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eron-pereira-95285b213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eron-pereira" height="30" width="40" /></a>
