@@ -58,5 +58,8 @@ When not working, I enjoy playing games and coding optimal tasks. I'm also an av
 <a href="https://www.hackerrank.com/eronponcepereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eronponcepereira" height="30" width="40" /></a>
 </p>
 
-<h2 align="center"> Most Used Languages</h2>
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=eronponce&skills=HTML,TypeScript,JSON,JavaScript,Java,SCSS,CSS,Python,C%2B%2B,C%23,SCSS,Svelte&width=820&bg=808080"/>
+<h1>Linguagens mais utilizadas</h1>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eronponce&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<h1>Estatísticas de sequência mais longa</h1>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eronponce&theme=tokyonight" alt="mystreak"/>
