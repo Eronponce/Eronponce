@@ -43,9 +43,6 @@ I view myself as a dynamic and passionate individual with a diverse range of ski
 - [Calculator that Automatically Translates the Number Base Explaining Each Procedure](https://github.com/Eronponce/calculadora-sistema-de-numeracao)
 - [Calculator that Builds Your Truth Table and Also Adds New Columns with the Result of Calculations with Propositions](https://github.com/LeonardoRochaLima/calculadora-tabela-verdade) (Private for now)
 
-## Personal Interests 🧑‍🏫
-When not working, I enjoy playing games and coding optimal tasks. I'm also an avid music enthusiast and love to listen to any kind of music. 🎸
-
 📫 How to reach me? **eronponcepereira@gmail.com**
 
 ---
