@@ -45,7 +45,7 @@
 </details>
 
 <details>
-<summary><strong>Professional Education</strong> 🎓</summary>
+<summary><strong> Education</strong> 🎓</summary>
 
 - Graduated in Computer Science at UniFil (2021 - 2024) 🎓  
 - CPRE Foundation Level - IREB, Germany  
