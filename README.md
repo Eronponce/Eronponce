@@ -55,9 +55,10 @@
 - Second place in 2024 GreenTech Hackathon of sustainability 🍀  
 - Winner of 2024 Geros +50 Senior Healthcare Hackathon 🧓  
 - Winner of 2023 Contability Hackathon at Sescap 🥂  
-- Winner of 2023 Development Marathon InTech on Artificial Intelligence  
-- Winner of 2021 Tourism Hackathon 🎉  
+- Winner of 2023 Development Marathon InTech on Artificial Intelligence
 - Third place in 2022 Tourism Hackathon 🏆
+- Winner of 2021 Tourism Hackathon 🎉  
+
 </details>
 
 <details>
