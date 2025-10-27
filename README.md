@@ -51,7 +51,8 @@
 - CPRE Foundation Level - IREB, Germany  
 - Certified Google Student Tutor since 2018 💻  
 - English Reading Proficiency Exam by the Federal University of Santa Catarina  
-- Academic award in Computer Science Graduation 2025 grade 93.82, UniFil  
+- Academic award in Computer Science Graduation 2025 grade 93.82, UniFil
+- Third place in 2025 Education Hackathon 📕
 - Second place in 2024 GreenTech Hackathon of sustainability 🍀  
 - Winner of 2024 Geros +50 Senior Healthcare Hackathon 🧓  
 - Winner of 2023 Contability Hackathon at Sescap 🥂  
