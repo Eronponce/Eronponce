@@ -2,7 +2,10 @@
   <img src="images/header.svg" alt="Header - Eron Ponce Pereira" />
 </p>
 
-<h2 align="center">Hi, I'm Eron</h2>
+<h2 align="center">Hi, I'm Eron
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=2500&pause=1000&color=7124F7&center=true&width=435&lines=Love+to+Code;Love+to+Compete;Love+to+Teach;Love+to+Research" alt="Typing SVG" /></a>
+  </h2>
 <p align="center">
   Teacher at UniFil and master's student at UEL (Universidade Estadual de Londrina). Background in research and Artificial Intelligence.
 </p>
