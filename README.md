@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/eron-pereira-95285b213">
+  <a href="https://linkedin.com/in/eron-ponce-95285b213">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36" />
   </a>
   <a href="https://fb.com/eronpp.ponce">
@@ -68,7 +68,7 @@
 <details>
 <summary><strong>Papers</strong> ✍</summary>
 
-- Learning to Explain Cyberattacks: Insights from Random Forest and Decision Predicate Graphs - IN PROGRESS  
+- <a href="https://ceur-ws.org/Vol-4121/Ital-IA_2025_paper_22.pdf" >Learning to Explain Cyberattacks: Insights from Random Forest and Decision Predicate Graphs</a>
 - <a href="http://periodicos.unifil.br/index.php/rev_teologica/article/view/3381">Networked Gospel: Technologies, Algorithms and Evangelical Growth in Brazil</a>  
 - <a href="http://periodicos.unifil.br/index.php/Revistateste/article/view/3254">Content Analysis in Relation to the Application of Artificial Intelligence in CRM</a>  
 - <a href="http://publicacoes.unifil.br/index.php/eventos/article/view/3078/2842">AI in Agribusiness using Deep Learning for Disease Identification</a>  
